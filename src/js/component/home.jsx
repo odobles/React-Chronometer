@@ -45,7 +45,7 @@ const Timer = () => {
 	return(
 		<div className="timer">
 			<div className="d-flex flex-row justify-content-center bg-dark text-light p-4">
-				<div className="p-2 bg-secondary py-3 px-lg-4 m-3 rounded border border-light">
+				<div className="p-2 my-4">
 					<div className="card-body">
 						<p className="card-text py-3 px-lg-4"><FontAwesomeIcon icon={faClockFour} size="5x" /></p>
 					</div>
